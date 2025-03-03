@@ -1,0 +1,5 @@
+PyQt5
+Pillow
+py7zr
+requests
+bs4
