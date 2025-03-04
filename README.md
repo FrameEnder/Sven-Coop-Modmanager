@@ -7,7 +7,7 @@
 </h1>
 
 <h1 align="center">
- <a href="https://github.com/shadps4-emu/shadPS4/releases/latest">
+ <a href="https://github.com/FrameEnder/Sven-Coop-Modmanager/releases/latest">
         <img src="https://img.shields.io/badge/Download-Latest-green" width="140">
 </h1>
 
