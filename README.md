@@ -26,7 +26,7 @@
 * Enable / Disable multiple mods at a time
 * Skin / GUI / Map Support
 * Built In Map Downloader
-  (ATM Requires you to manually source the .HTML for each webpage until I iron the pagination issue's)
+  (ATM Requires you to manually source the .HTML for each page at [Sven Map Database](http://scmapdb.wikidot.com/tag:all) until I iron the pagination issue's, so far it only grabs page 1)
 * .zip / .7z support for more in the future
 
 # How to Install 
