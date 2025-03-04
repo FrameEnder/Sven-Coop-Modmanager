@@ -12,4 +12,4 @@ REM Install all required packages from requirements.txt
 pip install -r requirements.txt
 
 REM Start the Python script
-python sven_map-manager.py
+python main.py
