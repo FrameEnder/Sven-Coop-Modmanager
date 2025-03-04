@@ -19,7 +19,7 @@ Then Simply run the Start.bat / Start.sh, and it will create a Virtual Enviromen
 
 make sure
 
-* Download the Latest Release [HERE]
+* Download the Latest Release [HERE](https://github.com/FrameEnder/Sven-Coop-Modmanager/releases/latest)
 * If not already installed, get Python (Preferably Python3.11)
 * Run Start.bat (Windows) / Start.sh (Linux)
   This will setup your enviroment, and install any requirements inside requirements.txt
