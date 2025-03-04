@@ -4,6 +4,7 @@
   <br>
   <b>Sven Modmanager</b>
   <br>
+  <p>F.O.S.S Modmanager for Sven Coop</p>
 </h1>
 
 <h1 align="center">
