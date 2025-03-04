@@ -1,6 +1,23 @@
-# Sven-Coop-Modmanager
+<h1 align="center">
+  <br>
+  <a href="https://github.com/FrameEnder/Sven-Coop-Modmanager"><img src="https://github.com/FrameEnder/Sven-Coop-Modmanager/blob/main/Sven_Map-Manager.png" width="220"></a>
+  <br>
+  <b>Sven Modmanager</b>
+  <br>
+</h1>
 
-This is an FOSS Modmanager for the game Sven Coop on Steam, this will allow you to manage most standard mods
+<h1 align="center">
+ <a href="https://github.com/shadps4-emu/shadPS4/releases/latest">
+        <img src="https://img.shields.io/badge/Download-Latest-green" width="140">
+</h1>
+
+<p align="center">
+  <a href="https://github.com/FrameEnder/Sven-Coop-Modmanager">
+  <img src="https://github.com/FrameEnder/Sven-Coop-Modmanager/blob/main/Data/Screenshots/1.png" width="400">
+  <img src="https://github.com/FrameEnder/Sven-Coop-Modmanager/blob/main/Data/Screenshots/2.png" width="400">
+  <img src="https://github.com/FrameEnder/Sven-Coop-Modmanager/blob/main/Data/Screenshots/3.png" width="400">
+  <img src="https://github.com/FrameEnder/Sven-Coop-Modmanager/blob/main/Data/Screenshots/4.png" width="400">
+</p>
 
 # Features
 
